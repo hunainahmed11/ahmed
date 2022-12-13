@@ -14,6 +14,10 @@ module.exports = {
       "grey":"#273149"
       
       },
+      images: {
+        disableStaticImages: true,
+      },
+      
       // backgroundImage:{
       //   'hero-pattern':"url('../assets/topbannr.png')"
       // }
